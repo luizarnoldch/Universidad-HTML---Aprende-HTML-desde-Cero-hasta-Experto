@@ -1,0 +1,27 @@
+h1 {
+  color: #f07167;
+}
+
+/*Color por defecto*/
+a:link {
+  color: #fb8500;
+  text-decoration: none;
+}
+
+/*Color visitado*/
+a:visited{
+  color: #219ebc;
+  text-decoration: none;
+}
+
+/*Mouse encima*/
+a:hover {
+  color:#8ecae6;
+  text-decoration: underline;
+}
+/*Al dar click*/
+a:active {
+  color: #023047;
+  text-decoration: underline;
+}
+
